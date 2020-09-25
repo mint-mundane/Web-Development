@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "editor.fontFamily": "Anonymous Pro",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "sync.autoUpload": true,
+  "sync.gist": "2f9b501e9717f60558fab34794cbc674",
+  "sync.quietSync": false,
+  "sync.autoDownload": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "git.ignoreLegacyWarning": true,
+  "python.pythonPath": "/usr/bin/python"
+}
